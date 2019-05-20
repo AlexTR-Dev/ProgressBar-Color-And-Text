@@ -1,4 +1,4 @@
-# ProgressBar-Color-And-Text
+# ProgressBar Color And Text
 A custom Progress Bar with options to change Color, Gradient, Text and Thickness.
 
 ## Colors style
@@ -13,8 +13,8 @@ A custom Progress Bar with options to change Color, Gradient, Text and Thickness
 *	ForwardDiagonal
 *	BackwardDiagonal
 
-## Thickness: 
-Thickness of the progressbar stablished prom de separation in pixel’s from the border
+## Thickness:
+Thickness of the ProgressBar stablished prom de separation in pixel’s from the border
 
 ## Visual mode:
 *	Percentage
@@ -28,5 +28,5 @@ Thickness of the progressbar stablished prom de separation in pixel’s from the
 
 ## Font Color
 
-### Coments
-ProgressBar Color and Text, it's a bar made for Windows Forms, the initial design is https://github.com/ukushu/TextProgressBar , I applied mayor changes to make it more atractive and make it a little better performance
+### Comments'
+ProgressBar Color and Text, it's a bar made for Windows Forms, the initial design is TextProgressBar https://github.com/ukushu/TextProgressBar , I applied mayor changes to make it more attractive and make it a little better performance
